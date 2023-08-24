@@ -19,7 +19,7 @@ export function PetCard(props: PetCardProps) {
         {props.pet.description}
       </Card.Body>
       <Card.Footer>
-        <button className="btn btn-primary">Adopt Me</button>
+        <button className="btn btn-primary">Insult Me!</button>
         <Link
           to={`/details/${props.pet.id}`}
           className="btn btn-secondary m1-2"

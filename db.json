@@ -82,7 +82,7 @@
       "description": "Pepper Jack is a spicy little man.",
       "adopted": false,
       "image": "pepperjack.jpg",
-      "breed": "White Boi With Gray Spots",
+      "breed": "Farm Boi",
       "isBoy": true,
       "isAdopted": false
     },
@@ -94,7 +94,7 @@
       "description": "Indie is an angry old lady who hates living with 3 boys.",
       "adopted": false,
       "image": "indie.jpg",
-      "breed": "Siamese Mix",
+      "breed": "Siamese Gurl",
       "isBoy": false,
       "isAdopted": false
     }

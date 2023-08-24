@@ -25,7 +25,7 @@ export function PetDetails() {
             <Card>
               <Card.Body>
                 <Row>
-                  <Col lg={4}>
+                  <Col lg={2}>
                     <img src={`/img/${pet.image}`}></img>
                   </Col>
                   <Col lg={8}>

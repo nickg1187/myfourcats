@@ -1,5 +1,5 @@
 .card-img-top {
-  width: 100%;
+  width: auto;
   height: auto;
   object-fit: contain;
   max-height: 250px;
