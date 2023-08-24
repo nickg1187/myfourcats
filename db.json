@@ -1,0 +1,102 @@
+{
+  "adoptions": [
+    {
+      "firstName": "sdafads",
+      "middleName": "asdfasdf",
+      "lastName": "asdfasf",
+      "hasFencedYard": true,
+      "hasChildren": false,
+      "hasOtherPets": false,
+      "phoneNumber": "",
+      "email": "asdfas@sdafds.com",
+      "aboutSelf": "adsfas",
+      "id": 1
+    },
+    {
+      "firstName": "qwe",
+      "middleName": "qasd",
+      "lastName": "asdfas",
+      "hasFencedYard": false,
+      "hasChildren": true,
+      "hasOtherPets": true,
+      "phoneNumber": "",
+      "email": "asdf@osdf.com",
+      "aboutSelf": "sdidiasd",
+      "id": 2
+    },
+    {
+      "firstName": "Jonathan",
+      "middleName": "ASDF",
+      "lastName": "Hop",
+      "hasFencedYard": false,
+      "hasChildren": true,
+      "hasOtherPets": true,
+      "phoneNumber": "123-456-7890",
+      "email": "info@codingyourcareer.com",
+      "aboutSelf": "Me, I'm me all day long",
+      "id": 3
+    },
+    {
+      "firstName": "Jonathan",
+      "middleName": "ASDF",
+      "lastName": "Hop",
+      "hasFencedYard": false,
+      "hasChildren": true,
+      "hasOtherPets": true,
+      "phoneNumber": "123-456-7890",
+      "email": "info@codingyourcareer.com",
+      "aboutSelf": "Me, I'm me all day long",
+      "id": 4
+    }
+  ],
+  "pets": [
+    {
+      "id": 1,
+      "name": "Olive",
+      "animalType": "cat",
+      "age": 9,
+      "description": "Olive is a fat jackass.",
+      "adopted": false,
+      "image": "olive.jpg",
+      "breed": "Orange Boi",
+      "isBoy": true,
+      "isAdopted": false
+    },
+    {
+      "id": 2,
+      "name": "Carrot",
+      "animalType": "cat",
+      "age": 2,
+      "description": "Carrot's kind of a dummy but he makes up for it by being sweet.",
+      "adopted": false,
+      "image": "carrot.jpg",
+      "breed": "Orange Boi",
+      "isBoy": true,
+      "isAdopted": false
+    },
+    {
+      "id": 3,
+      "name": "Pepper Jack",
+      "animalType": "cat",
+      "age": 0.75,
+      "description": "Pepper Jack is a spicy little man.",
+      "adopted": false,
+      "image": "dog3.jpg",
+      "breed": "White Boi With Gray Spots",
+      "isBoy": true,
+      "isAdopted": false
+    },
+    {
+      "id": 4,
+      "name": "Indie",
+      "animalType": "cat",
+      "age": 10,
+      "description": "Indie is an angry old lady who hates living with 3 boys.",
+      "adopted": false,
+      "image": "indie.jpg",
+      "breed": "Siamese Mix",
+      "isBoy": false,
+      "isAdopted": false
+    }
+  ]
+}
