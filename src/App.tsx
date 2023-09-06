@@ -5,6 +5,7 @@ import Header from "./components/Header";
 import { PetList } from "./components/PetList";
 import { Route, BrowserRouter as Router, Routes } from "react-router-dom";
 import { PetDetails } from "./components/PetDetails";
+import { PetAdoptionForm } from "./components/PetAdoptionForm";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
         <Routes>
           <Route path="/" element={<PetList></PetList>}></Route>
           <Route path="/details/:id" element={<PetDetails />}></Route>
+          <Route path="/adoptions/:id" element={<PetAdoptionForm />} />
         </Routes>
       </Router>
     </div>
